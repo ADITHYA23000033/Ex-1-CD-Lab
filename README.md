@@ -69,7 +69,7 @@ int main()
 # OUTPUT
 ### ALPHANUMERIC FOUND
 ![Screenshot 2025-04-15 104223](https://github.com/user-attachments/assets/86aeefe8-3957-42af-a1f6-f8e58bc013cb)
-### ALPHANUMERIC FOUND
+### ALPHANUMERIC NOT FOUND
 ![Screenshot 2025-04-15 104303](https://github.com/user-attachments/assets/cb6768d2-0f80-4434-b9ac-f2b8d4a282e2)
 
 # RESULT
